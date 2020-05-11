@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Simple-Store/static/css/main.96923f1c.chunk.css",
+    "main.js": "/Simple-Store/static/js/main.43609e0f.chunk.js",
+    "main.js.map": "/Simple-Store/static/js/main.43609e0f.chunk.js.map",
+    "runtime-main.js": "/Simple-Store/static/js/runtime-main.d9846e1e.js",
+    "runtime-main.js.map": "/Simple-Store/static/js/runtime-main.d9846e1e.js.map",
+    "static/css/2.3ff54426.chunk.css": "/Simple-Store/static/css/2.3ff54426.chunk.css",
+    "static/js/2.f5b58b2f.chunk.js": "/Simple-Store/static/js/2.f5b58b2f.chunk.js",
+    "static/js/2.f5b58b2f.chunk.js.map": "/Simple-Store/static/js/2.f5b58b2f.chunk.js.map",
+    "index.html": "/Simple-Store/index.html",
+    "precache-manifest.b54e280a9a678be4f2a1f69a60d528b7.js": "/Simple-Store/precache-manifest.b54e280a9a678be4f2a1f69a60d528b7.js",
+    "service-worker.js": "/Simple-Store/service-worker.js",
+    "static/css/2.3ff54426.chunk.css.map": "/Simple-Store/static/css/2.3ff54426.chunk.css.map",
+    "static/css/main.96923f1c.chunk.css.map": "/Simple-Store/static/css/main.96923f1c.chunk.css.map",
+    "static/js/2.f5b58b2f.chunk.js.LICENSE.txt": "/Simple-Store/static/js/2.f5b58b2f.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/Simple-Store/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d9846e1e.js",
+    "static/css/2.3ff54426.chunk.css",
+    "static/js/2.f5b58b2f.chunk.js",
+    "static/css/main.96923f1c.chunk.css",
+    "static/js/main.43609e0f.chunk.js"
+  ]
+}
