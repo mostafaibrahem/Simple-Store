@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16cef0cf5319871a8c4dd4de0539a16a",
+    "revision": "c1045f3a50239f34d4b815a12c4c2e07",
     "url": "/Simple-Store/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Simple-Store/static/css/2.3ff54426.chunk.css"
   },
   {
-    "revision": "d3da02667c18073d2eef",
+    "revision": "0f7dc5c47107b1ed5d18",
     "url": "/Simple-Store/static/css/main.96923f1c.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Simple-Store/static/js/2.f5b58b2f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d3da02667c18073d2eef",
-    "url": "/Simple-Store/static/js/main.43609e0f.chunk.js"
+    "revision": "0f7dc5c47107b1ed5d18",
+    "url": "/Simple-Store/static/js/main.8ef34da2.chunk.js"
   },
   {
     "revision": "d873e41cbf3cf5dab5f6",
